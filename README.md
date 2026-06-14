@@ -61,8 +61,11 @@ I'm a final-year B.Tech Computer Science student passionate about building full-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omprakashparida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=omprakashparida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakashparida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omprakashparida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
 ---

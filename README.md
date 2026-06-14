@@ -1,33 +1,72 @@
-<h1 align="center">Hi there, I'm Om Prakash Parida 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | Final-Year B.Tech CS Student</h3>
+<h1 align="center">Hi, I'm Om Prakash Parida 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+AI-Powered+Products;Real-Time+Systems+Enthusiast;Final+Year+B.Tech+CS+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-prakash-parida-247982274" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:omprakass747@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 Building PathForge — AI-powered career roadmap platform (MERN + Groq API)
-- 🌱 Learning: WebSockets (Socket.io), System Design, Java DSA
-- 💼 Actively seeking MERN Stack internship opportunities
-- 📊 DSA: Solving problems daily on LeetCode (Java)
+### 🚀 About Me
 
---- 
+I'm a final-year B.Tech Computer Science student passionate about building full-stack web applications and AI-powered products.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=omprakashparida&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=omprakashparida&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=omprakashparida&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🎓 Final Year B.Tech (Computer Science & Technology)
+* 💻 Full-Stack MERN Developer
+* 🤖 Experienced in AI/LLM integration using Groq API
+* ⚡ Built and deployed PathForge and DevMate AI
+* 🔄 Strong interest in real-time systems, WebSockets, and scalable backend architecture
 
 ---
-[![](https://komarev.com/ghpvc/?username=omprakashparida&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,java,git,github,vercel&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project                                             | Description                                                                      | Key Features                                                 |
+| --------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **[PathForge](https://path-forge-zeta.vercel.app)** | AI-powered career roadmap platform that generates personalized learning paths.   | JWT Authentication, Email Verification, AI Roadmaps, MongoDB |
+| **[DevMate AI](https://devmate-ai-phi.vercel.app)** | Real-time collaborative code editor with AI-powered code assistance and reviews. | Socket.io, Live Collaboration, AI Reviews, Real-Time Sync    |
+
+---
+
+### 🎯 Current Focus
+
+* Building scalable full-stack MERN applications
+* Exploring AI & LLM integrations
+* Learning system design fundamentals
+* Strengthening backend architecture skills
+* Continuously improving through hands-on projects and real-world development
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakashparida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=omprakashparida&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building products that matter, one commit at a time.</i>
+</p>
